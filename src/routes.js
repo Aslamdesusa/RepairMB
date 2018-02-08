@@ -136,7 +136,7 @@ const routes = [
 	},
 	{
 		method: 'GET',
-		path: '/get/all/complaint',
+		path: '/get/all/complaint', 
 		config:{
 			tags:['api'],
             description:"Admin can get users complaint",
